@@ -1,37 +1,51 @@
 Metadata-Version: 2.1
-Name: IsNumberEven
+Name: IsNumberOdd
 Version: 1.1.0
-Summary: Return true if the given number is even.
-Home-page: https://github.com/programadriano/is-even
-Author: Thiago S Adriano
-Author-email: prof.thiagoadriano@gmail.com
+Summary: Return true if the given number is odd.
+Home-page: https://github.com/GabouKing/IsOdd
+Author: Gabriel R Amaral
+Author-email: professor.gabriel.amaral@gmail.com
 License: MIT
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
 Description-Content-Type: text/markdown
 
-# IsNumberEven Package
+# IsNumberOdd Package
 
-The `IsNumberEven` package provides a simple utility to check whether a given number is even. 
+The `IsNumberOdd` package provides a simple utility to check whether a given number is odd.
 
 ## Installation
 
-Install `IsNumberEven` using pip:
+Install `IsNumberOdd` using pip:
 
 ```bash
 pip install IsNumberEven
+pip install IsNumberOdd
 ```
 
-This will download and install the latest version of IsNumberEven from PyPI.
+This will download and install the latest version of IsNumberOdd from PyPI.
 
 ## Usage
-Once installed, you can use the IsNumberEven function in your Python scripts as follows:
+
+Once installed, you can use the IsNumberOdd function in your Python scripts as follows:
 
 ```bash
-from isEven.is_even import is_even
+from isOdd.is_odd import is_odd
 
 # Example usage
 number = 4
-print(is_even(number))  # Output: True
+print(is_odd(number))  # Output: True
 ```
 
 ## License
-IsNumberEven is licensed under the MIT License. See the LICENSE file for more details.
+
+IsNumberOdd is licensed under the MIT License. See the LICENSE file for more details.
+
+
