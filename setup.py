@@ -13,7 +13,7 @@ setup(
     url='https://github.com/GabouKing/IsOdd',  
     license='MIT',  
     long_description=long_description,
-    long_description_content_type='text/markdown'
+    long_description_content_type='text/markdown',
     packages=find_packages(),
     install_requires=['IsNumberEven'],  # Dependência do pacote IsNumberOdd
     classifiers=[
