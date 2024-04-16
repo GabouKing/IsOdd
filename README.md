@@ -7,6 +7,7 @@ The `IsNumberOdd` package provides a simple utility to check whether a given num
 Install `IsNumberOdd` using pip:
 
 ```bash
+pip install IsNumberEven
 pip install IsNumberOdd
 ```
 
