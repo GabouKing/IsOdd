@@ -9,8 +9,8 @@ setup(
     version='1.1.0',    
     description='Return true if the given number is odd.',
     author='Gabriel R Amaral',
-    author_email='prof.thiagoadriano@gmail.com',
-    url='https://github.com/programadriano/is-odd',  
+    author_email='professor.gabriel.amaral@gmail.com',
+    url='https://github.com/GabouKing/IsOdd',  
     license='MIT',  
     long_description=long_description,
     long_description_content_type='text/markdown'
