@@ -40,7 +40,7 @@ Once installed, you can use the IsNumberOdd function in your Python scripts as f
 from isOdd.is_odd import is_odd
 
 # Example usage
-number = 4
+number = 3
 print(is_odd(number))  # Output: True
 ```
 
