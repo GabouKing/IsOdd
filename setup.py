@@ -6,7 +6,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setup(
     name='IsNumberOdd',
-    version='1.1.0',    
+    version='1.0.0',    
     description='Return true if the given number is odd.',
     author='Gabriel R Amaral',
     author_email='professor.gabriel.amaral@gmail.com',
